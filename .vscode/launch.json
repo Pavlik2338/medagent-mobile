@@ -1,0 +1,17 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "med_agent-mobile dev",
+            "request": "launch",
+            "program": "lib/entry_points/main_dev.dart",
+            "type": "dart"
+        },
+        {
+            "name": "med_agent-mobile prod",
+            "request": "launch",
+            "program": "lib/entry_points/main_prod.dart",
+            "type": "dart"
+        },
+    ]
+}

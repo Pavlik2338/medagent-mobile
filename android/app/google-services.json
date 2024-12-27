@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "609205119223",
+    "project_id": "medagent-3f021",
+    "storage_bucket": "medagent-3f021.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609205119223:android:057bc730087de264278bf2",
+        "android_client_info": {
+          "package_name": "com.example.med_agent_mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-8nTi4mpqMdNQrVpBqNxXjK48n4_VVCg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609205119223:android:cc7813d444dcd2cf278bf2",
+        "android_client_info": {
+          "package_name": "com.innopro.med_agent_mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-8nTi4mpqMdNQrVpBqNxXjK48n4_VVCg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

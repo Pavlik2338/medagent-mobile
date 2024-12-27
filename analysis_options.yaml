@@ -1,0 +1,24 @@
+include: package:flutter_lints/flutter.yaml
+analyzer:
+  errors:
+    use_build_context_synchronously: ignore
+  exclude:
+    - "**.g.dart"
+    - "**.freezed.dart"
+    - "lib/generated"
+    - "lib/l10n"
+    - "side_effect_bloc"
+
+linter:
+  rules:
+    prefer_double_quotes: true
+    avoid_init_to_null: true
+    use_string_buffers: true
+    unawaited_futures: true
+    avoid_type_to_string: true
+    always_declare_return_types: true
+    always_put_control_body_on_new_line: true
+    require_trailing_commas: true
+    always_use_package_imports: true
+    avoid_relative_lib_imports: true
+
